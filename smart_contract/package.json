@@ -1,11 +1,15 @@
 {
   "name": "smart_contract",
   "version": "1.0.0",
-  "description": "",
+  "description": "smart contract",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Harsh Vishwakarma",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.1",
+    "hardhat": "^2.10.2"
+  }
 }
