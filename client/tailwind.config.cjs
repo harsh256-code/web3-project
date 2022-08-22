@@ -11,6 +11,7 @@ module.exports = {
     extend: {
       screens: {
         mf: "990px",
+        si: { max: "640px" },
       },
       keyframes: {
         "slide-in": {
